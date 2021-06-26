@@ -8,7 +8,7 @@ Completed
 
 ### Screenshot
 
-![]()
+![Pagination Component Screenshot](./.assets/pagination_component.png)
 
 ### Features
 
