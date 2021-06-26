@@ -10,10 +10,6 @@ Completed
 
 ![Pagination Component Screenshot](./.assets/pagination_component.png)
 
-### Features
-
-- [] Arrows on borders
-
 ### Used Technologies
 
 - ReactJS
